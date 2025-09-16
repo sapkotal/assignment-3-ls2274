@@ -1,0 +1,8 @@
+---
+title: "Assignment #3 webpage for Lok and Tae Eun"
+---
+
+Welcome to Tae Eun and Lok's collaborative website for NTRES 6100!
+
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

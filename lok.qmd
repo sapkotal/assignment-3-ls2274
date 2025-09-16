@@ -1,0 +1,8 @@
+---
+title: "people"
+editor: visual
+---
+
+Our professors at CALS
+
+![People at CALS](https://cals.cornell.edu/sites/default/files/styles/hero_landing_desktop/public/2022-06/gd-comm-2022-4973.jpg?h=5c87dc81&itok=CKpPglDa)
