@@ -4,6 +4,8 @@ title: "About"
 
 About this site
 
+-   My name is Lok Mani Sapkota
+
 -   This is our trial project for NTRES6100
 
 -   The collaborators are Lok and Tae Eun
