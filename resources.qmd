@@ -1,6 +1,16 @@
 ---
-title: "resources"
+title: "Resources"
 editor: visual
 ---
 
-In this page we will provide our list of publications
+![Our resources is about the forest-dependent people](https://foliagelab.wordpress.com/wp-content/uploads/2025/06/dsc06419.jpg?w=2048){fig-align="center"}
+
+In this page, we will provide our list of publications
+
+-   Research reports
+
+-   Scientific articles
+
+-   Database
+
+-   Maps
