@@ -1,7 +1,0 @@
----
-title: "Assignment #3 webpage for Lok and Tae Eun"
-format: html
-editor: visual
----
-
-Welcome to Tae Eun and Lok's collaborative website for NTRES 6100!
