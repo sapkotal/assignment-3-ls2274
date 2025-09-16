@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "lok.html",
-    "href": "lok.html",
-    "title": "people",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "resources",
     "section": "",
-    "text": "Our professors at CALS\n\n\n\nPeople at CALS"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "text": "In this page we will provide our list of publications"
   },
   {
     "objectID": "index.html",
@@ -19,5 +12,19 @@
     "title": "Assignment #3 webpage for Lok and Tae Eun",
     "section": "",
     "text": "Welcome to Tae Eun and Lok’s collaborative website for NTRES 6100!\n\n\n\nThis is the hall where we take our NTRES6100 class\n\n\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nThis is our trial project for NTRES6100\nThe collaborators are Lok and Tae Eun\nThank you for visiting this webpage"
+  },
+  {
+    "objectID": "lok.html",
+    "href": "lok.html",
+    "title": "people",
+    "section": "",
+    "text": "Our professors at CALS\n\n\n\nPeople at CALS"
   }
 ]

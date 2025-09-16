@@ -3,3 +3,9 @@ title: "About"
 ---
 
 About this site
+
+-   This is our trial project for NTRES6100
+
+-   The collaborators are Lok and Tae Eun
+
+-   Thank you for visiting this webpage

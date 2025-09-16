@@ -11,7 +11,7 @@ website:
         text: About
       - href: resources.qmd
         text: Resources
-      - href: people.qmd
+      - href: lok.qmd
         text: People
         
 

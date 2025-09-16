@@ -1,0 +1,6 @@
+---
+title: "resources"
+editor: visual
+---
+
+In this page we will provide our list of publications
